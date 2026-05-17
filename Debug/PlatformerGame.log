@@ -1,0 +1,3 @@
+﻿  Thomas.cpp
+C:\Users\PCwork\Documents\Visual Studio Stuff\Projects\PlatformerGame\PlatformerGame\PlatformerGame\PlatformerGame\Thomas.cpp(12,22): warning C4305: '=': truncation from 'double' to 'float'
+  PlatformerGame.vcxproj -> C:\Users\PCwork\Documents\Visual Studio Stuff\Projects\PlatformerGame\PlatformerGame\PlatformerGame\Debug\PlatformerGame.exe
