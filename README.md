@@ -1,6 +1,6 @@
 # Simple 2D SFML/C++ Platformer game
 ## Gameplay
-
+[▶ Watch Gameplay](https://www.youtube.com/watch?v=ivcypnG-5YA)
 
 ## How to run
 
