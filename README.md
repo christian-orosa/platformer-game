@@ -4,7 +4,7 @@
 
 ## How to run
 
-1. Download the latest release
+1. Download the repository
 2. Extract the ZIP file
 3. Run `PlatformerGame.exe`
 
